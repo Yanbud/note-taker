@@ -1,4 +1,4 @@
-# Note Taker
+# Small Note
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 ## Description 
 This is a note-taking application that can be used to write and save notes. Users can organize their thoughts and keep track of tasks they need to complete.
